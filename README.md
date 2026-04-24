@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanicha Mongkorn</h1>
-<h3 align="center">A passionate Computer Engineer | Data | IoT & AI Integration</h3>
+<h3 align="center">A passionate Computer Engineer | Business Analytst | Data | IoT & AI Integration</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
